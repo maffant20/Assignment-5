@@ -1,2 +1,2 @@
 # Assignment-5
-All outputs and code are present in separate collab folders. All are present here.
+All output results, graphs and code are present in separate collab folders. All are present here.
